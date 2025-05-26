@@ -1647,7 +1647,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8 || ^9":
+"eslint@npm:^9.0.0":
   version: 9.27.0
   resolution: "eslint@npm:9.27.0"
   dependencies:
@@ -2549,7 +2549,7 @@ __metadata:
     "@types/node": "npm:20.x"
     "@types/react": "npm:18.x"
     "@types/react-dom": "npm:18.x"
-    eslint: "npm:^8 || ^9"
+    eslint: "npm:^9.0.0"
     eslint-config-next: "npm:15.3.2"
     eslint-config-prettier: "npm:^10.1.5"
     eslint-plugin-prettier: "npm:^5.4.0"
